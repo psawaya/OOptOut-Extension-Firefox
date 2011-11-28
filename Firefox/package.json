@@ -1,9 +1,9 @@
 {
-    "name": "jetpack",
+    "name": "optout-for-firefox",
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-    "author": "",
+    "author": "Paul Sawaya, Chad Selph",
     "version": "0.1",
-    "fullName": "jetpack",
+    "fullName": "OptOut for Firefox",
     "id": "jid1-tfUMwEtPc4gbTQ",
-    "description": "a basic add-on"
+    "description": "Allows you to opt-out of individual Facebook permissions when using Facebook connect."
 }
