@@ -31,7 +31,7 @@
     };
 
     function reload_page(choosen) {
-        var url = window.location.origin + window.location.pathname;
+        var url = window.location.protocol + "//" + window.location.host + ":" + window.location.port + "/" + window.location.pathname;
         var parts = split_url_parts();
         parts[PERMS_URL_PARAM] = choosen.join(",");
         var new_params = [];
